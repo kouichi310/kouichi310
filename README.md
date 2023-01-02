@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+### 🔭 I’m currently studying on ...
+National Institute of Technology, Kisarazu College
+
+### 🌱 I’m currently learning ...
+C,Python,PHP,CPU,OS,Go,
+
+### 📫 How to reach me: ...
+koichirou310@gmail.com
+
 <!--
 **kouichi310/kouichi310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
