@@ -4,7 +4,7 @@
 National Institute of Technology, Kisarazu College
 
 ### 🌱 I’m currently interested and learning ...
-C,Python,Cake PHP,CPU,OS,Go,Prometeus,grafana,elastic
+C, Python, Cake PHP, CPU, OS, Go, Prometeus, grafana, elastic
 
 ### 📫 How to reach me: ...
 koichirou310@gmail.com
